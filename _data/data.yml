@@ -4,7 +4,7 @@
 
 sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: False # set to False if you want education in main section instead of in sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: Marco Ciau
@@ -72,26 +72,20 @@ experiences:
           - Use soldering equipement to build and modify hardware prototypes
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Skills 
 
     toolset:
-      - name: Python & Django
+      - name: Strong conding skills in C/C++
         # level: 98%
 
-      - name: Javascript & jQuery
+      - name: Collaboration
         # level: 98%
 
-      - name: Angular
+      - name: Self-Learning
         # level: 98%
 
-      - name: HTML5 & CSS
+      - name: Limited Working English
         # level: 95%
-
-      - name: Ruby on Rails
-        # level: 85%
-
-      - name: Sketch & Photoshop
-        # level: 60%
 
 footer: >
     Marco Ciau 
